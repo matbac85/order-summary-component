@@ -140,10 +140,6 @@ main {
   cursor: pointer;
 }
 
-.e-subscription__link:hover {
-  cursor: pointer;
-}
-
 .e-card__btn-proceed,
 .e-card__btn-cancel {
   all: unset;
@@ -151,6 +147,7 @@ main {
   font-size: 0.9375rem;
   font-weight: 900;
   text-align: center;
+  cursor: pointer;
 }
 
 .e-card__btn-proceed {
