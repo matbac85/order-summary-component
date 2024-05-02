@@ -1,13 +1,28 @@
-# Order Summary Component
+# Order Summary Card Component
 
-This is a small Frontend Mentor challenge completed using HTML and CSS, employing the BEM methodology. You can view the result on this [link](https://matbac85.github.io/order-summary-component/).
+![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
-## Introduction
+## Overview
 
-This project is a part of the Frontend Mentor challenges, aimed at providing developers with real-world projects to improve their skills. The challenge involves creating a simple order summary component using HTML and CSS.
+This order summary card component was developed as a solution to the Frontend Mentor challenge. The challenge was to build out an order summary card component that closely matches the provided design.
 
 ## Features
 
-- Simple and elegant design.
-- Utilizes BEM methodology for CSS organization.
-- Responsive layout for various screen sizes.
+- Responsive layout for different screen sizes
+- Mimics the design provided
+
+## Expected Behavior
+
+- The order summary card component should closely match the design provided in the challenge.
+- Responsive design should ensure the component looks good on various screen sizes.
+- Hover states should be implemented for all interactive elements.
+
+## Technologies Used
+
+- HTML
+- CSS
+
+## Links
+
+- Solution URL: [Order Summary Card Component Solution](https://matbac85.github.io/order-summary-component/)
+- Frontend Mentor Profile: [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/matbac85)
